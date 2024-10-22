@@ -17,7 +17,7 @@
             <input type="number" name="randomNum" required>
         </label>
     </h4>
-    <button type="submit">Start</button>
+    <button type="submit" >Start</button>
 </form:form>
 
 </body>

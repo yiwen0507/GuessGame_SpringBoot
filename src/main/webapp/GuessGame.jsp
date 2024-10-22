@@ -15,7 +15,7 @@
     <label>
         <input type="number" name="number" required/>
     </label>
-    <button type="submit">Guess</button>
+    <button type="submit" >Guess</button>
 </form:form>
 </body>
 </html>
